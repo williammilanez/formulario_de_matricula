@@ -3,7 +3,7 @@
 ## Cadastro de Alunos
 
 <div align="center">
-  <img src="./assets/project_cover.png.png" alt="Capa do Projeto" width="75%" />
+  <img src="./assets/project_cover.png" alt="Capa do Projeto" width="75%" />
 </div>
 
 Este projeto é um formulário de matrícula desenvolvido em **HTML5 e CSS3**, permitindo que usuários preencham e enviem informações de matrícula de forma simples, eficiente e segura.
