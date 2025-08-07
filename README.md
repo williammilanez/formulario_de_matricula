@@ -86,27 +86,6 @@ formulario_de_matricula/
 
 ---
 
-## 🚀 Instalação e Uso
-
-1. Clone o repositório:
-   ```
-   git clone <URL do repositório>
-   ```
-2. Navegue até o diretório do projeto:
-   ```
-   cd formulario_de_matricula
-   ```
-3. Instale as dependências:
-   ```
-   npm install
-   ```
-4. Inicie a aplicação:
-   ```
-   npm start
-   ```
-
----
-
 ## ✍️ Autor
 
 Desenvolvido por **Rocketseat**  
